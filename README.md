@@ -1,5 +1,3 @@
 ## <p align="center">˚₊‧꒰ა ☆ ໒꒱ ‧₊˚</p>
 
 <img src="l1e4rx0fvxr91.gif" width="20%" alt="Ceruledge">
-<img src="1740297990561.gif" width="20%" alt="Iron valiant">
-<img src="200.gif" width="20%" alt="Ash greninja">
