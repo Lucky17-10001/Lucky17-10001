@@ -1,6 +1,7 @@
 ## <p align="center">˚₊‧꒰ა ☆ ໒꒱ ‧₊˚</p>
 
 <p align="center">
+  <img src="greninja-ash-showdown.gif" width="15%" />
   <img src="luxray-showdown.gif" width="15%" />
   <img src="ceruledge-showdown.gif" width="12%" />
   <img src="706_1.gif" width="20%" />
